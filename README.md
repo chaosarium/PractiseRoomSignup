@@ -1,5 +1,7 @@
 # Music Rooms @ NCPA
+
 A maintenance-free signup system without user credential database through questionable use of crytography
+
 It poweres NCPA's music room booking system
 
 ![CleanShot 2023-03-08 at 20 55 06](https://user-images.githubusercontent.com/38693485/223895638-946699e9-fec1-4a45-9ae1-5b936579221a.jpg)
